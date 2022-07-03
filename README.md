@@ -1,2 +1,2 @@
-# Algorithms
-This Repo have some implementations of different type of Algorithms using C++ language
+# LeetCode Solution
+This Repo have some Solutions of different type of Proplems using Python language
